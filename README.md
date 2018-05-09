@@ -1,6 +1,7 @@
 # CSS-Layouting-ColumnPage
 
 Layouting 2 columns
+<br>
 CSS for Column :
 ```
    .kolom1 {
@@ -19,6 +20,7 @@ CSS for Column :
 ![alt text](https://github.com/dappsh/CSS-Layouting-ColumnPage/blob/master/2-Columns-Layout.png)
 
 Layouting 3 columns
+<br>
 CSS for Column :
 ```
 
