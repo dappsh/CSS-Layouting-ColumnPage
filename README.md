@@ -9,7 +9,7 @@ CSS for Column :
             text-align: justify;
         }
 
-        .kolom2 {
+    .kolom2 {
             float: right;
             width: 49%;
             text-align: justify;
@@ -21,9 +21,11 @@ CSS for Column :
 Layouting 3 columns
 CSS for Column :
 ```
+
 .kolom {
             column-count: 3;
             column-gap: 20px
+            
 ```
 ![alt text](https://github.com/dappsh/CSS-Layouting-ColumnPage/blob/master/3-Columns-Layout.png)
 
